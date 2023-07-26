@@ -21,7 +21,7 @@ npm run dev
 ```
 
 After a few seconds, your project should be accessible at the address
-[herehttps://demo-vectors-e-com.vercel.app/)
+[here](https://demo-vectors-e-com.vercel.app/)
 
 
 If you are satisfied with the result, you can finally build the project for release with:
