@@ -1,6 +1,5 @@
 # E-commerce Landing Page of Popular Pro Stock Vectors
 
-![Demo](![image](https://github.com/el-astro77/demo_vectorecom/assets/67543214/f1bef7d4-92b2-4afa-9ee6-a6d55d9af882))
 ![image](https://github.com/el-astro77/demo_vectorecom/assets/67543214/b7ae1292-0e6c-466a-b3f4-ed6c18356ee3)
 
 ## Introduction
