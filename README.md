@@ -6,7 +6,6 @@
 
 Welcome to the E-commerce Landing Page of Popular Pro Stock Vectors! This project showcases a modern and interactive website built using React and JavaScript. The landing page features a curated collection of popular pro stock vectors, making it a go-to destination for graphic designers, illustrators, and creative professionals.
 
-Visit the live demo: [E-commerce Landing Page Demo](https://demo-vectors-e-com.vercel.app/)
 
 ## Features
 
@@ -32,7 +31,6 @@ Visit the live demo: [E-commerce Landing Page Demo](https://demo-vectors-e-com.v
 2. Navigate to the project directory using the command line.
 3. Run `npm install` to install the required dependencies.
 4. Start the development server using `npm start`.
-5. Open your browser and visit `(https://demo-vectors-e-com.vercel.app/)` to explore the E-commerce Landing Page.
 
 ## How to Use
 
